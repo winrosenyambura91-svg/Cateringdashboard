@@ -16,3 +16,17 @@ Record damaged items
 View and search items
 Technologies Used Java Servlets, JSP
 Frontend: HTML, CSS, JSP
+      struture
+  Web Pages/
+│
+├── index.jsp
+├── login.jsp
+├── admin.jsp
+├── manager.jsp
+├── store.jsp
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   └── cater.jpeg
